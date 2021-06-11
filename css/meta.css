@@ -1,0 +1,132 @@
+@media (max-width: 992px) { 
+
+
+.ban-wr h1{
+	margin-bottom: 30px;
+	font-size: 42px;
+	font-weight: 700;
+	color: red;
+	
+}
+.ban-wr p{
+	font-size: 16px;
+	font-weight: 700;
+	color: red;
+
+	
+}
+.main-data{
+	margin-top: 270px;
+}
+
+.img-container h4{
+	font-size: 32px;
+	font-weight: 700;
+
+}
+
+.video-img img{
+	width: 650px;
+}
+.img-container{
+	margin-top: 10px;
+}
+.img-container p{
+	font-size: 16px;
+	color: #8c8c98;
+	width: 100%;
+	
+}
+.video{
+	margin-top: 100px;
+}
+.comon-hed h4{
+	font-size: 42px;
+	font-weight: 700;
+	color: red;
+	margin-bottom: 20px;
+}
+.comon-hed p{
+	font-size: 16px;
+	font-weight: 300;
+	color: #8c8c98;
+}
+.work-co p{
+	font-size: 16px;
+	color: #8c8c98;
+	font-size: 400;
+	width: 95%;
+}
+.work-co h4{
+	font-size: 32px;
+	color: #30323a;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-weight: 500;
+}
+.img-con h4{
+	font-size: 32px;
+	font-weight: 700;
+	margin-top: -450px;
+	margin-left: 580px;
+}
+.img-con p{
+	font-size: 16px;
+	font-weight: 400;
+	margin-left: 580px;
+	width: 33%;
+	padding-top: 30px;
+	color: #8c8c98;
+	}
+
+.comon-hed11 h4{
+	font-size: 32px;
+	font-weight: 700;
+	color: #30323a;
+	margin-top: 60px;
+	margin-bottom: 25px;
+}
+.twit-img{
+	width: 170px;
+	height: 80px;
+	background-color: #ecf2ff;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 30px;
+	margin-left: -20px;
+}
+.d-te h1{
+	font-size: 32px;
+	font-weight: 600;
+	color: #fff;
+}
+.btnn a{
+	color: blue;
+	background: #fff;
+	display: inline-block;
+	padding: 18px;
+	margin-left: 20px;
+	margin-top: 14px;
+	border-radius: 3px;
+
+}
+.row111 p{
+	margin-top: 28px;
+	color: #fff;
+	font-size: 19px;
+	margin-left: -100px;
+}
+.single-img{
+	background-color: #a7a5ef;
+	padding: 30px 150px;
+	display: inline-block;
+	margin-top: 100px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-left: 28px;
+}
+
+}
